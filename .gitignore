@@ -1,0 +1,17 @@
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Dependencias instaladas con npm
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de registro
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

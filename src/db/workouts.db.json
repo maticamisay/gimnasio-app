@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Full Body Workout",
+    "description": "A workout that targets all the major muscle groups in the body.",
+    "exercises": [
+      {
+        "name": "Squats",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "Bench Press",
+        "sets": 3,
+        "reps": 10
+      },
+      {
+        "name": "Deadlifts",
+        "sets": 3,
+        "reps": 8
+      },
+      {
+        "name": "Pull-ups",
+        "sets": 3,
+        "reps": 10
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Upper Body Workout",
+    "description": "A workout that focuses on the upper body muscles.",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": 4,
+        "reps": 8
+      },
+      {
+        "name": "Shoulder Press",
+        "sets": 4,
+        "reps": 10
+      },
+      {
+        "name": "Bicep Curls",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "Tricep Extensions",
+        "sets": 3,
+        "reps": 12
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lower Body Workout",
+    "description": "A workout that focuses on the lower body muscles.",
+    "exercises": [
+      {
+        "name": "Squats",
+        "sets": 4,
+        "reps": 10
+      },
+      {
+        "name": "Lunges",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "Leg Press",
+        "sets": 3,
+        "reps": 12
+      },
+      {
+        "name": "Calf Raises",
+        "sets": 4,
+        "reps": 15
+      }
+    ]
+  }
+]
