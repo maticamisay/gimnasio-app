@@ -12,7 +12,7 @@ Aplicación web para registrar y gestionar rutinas de entrenamiento en un gimnas
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/gimnasio-app.git
+   git clone https://github.com/maticamisay/gimnasio-app
    cd gimnasio-app
    ```
 
